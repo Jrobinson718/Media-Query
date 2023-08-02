@@ -1,0 +1,1 @@
+Utilizing media Querys in order to show responsiveness in my website by changing the colors based off of the size of the screen
